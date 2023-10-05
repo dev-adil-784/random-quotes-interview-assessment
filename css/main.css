@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: helvetica, sans-serif;
+    font-size: 16px;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+.quote-alert-hidden {
+    display: none;
+}
+
+.quote-card-container{
+
+    width: 800px;
+    height: 150px;
+}
+
+#quote-container {
+    background-color: #EE9322;
+}
